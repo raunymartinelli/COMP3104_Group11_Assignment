@@ -1,1 +1,14 @@
-More information about lectures and labs on COMP3104
+DevOps is the methodology in the software development and IT industry. Used as a set of partices and tools,
+Devops integrates and automates the work of software developent, and It operations as a means of improving
+and shortening the system development life cycle.
+
+The importance of Devops couln't be understated. It is indeed a methodology that can help out with any
+sdlc for a software project.
+
+It allows for faster development and deployment by automating various stages of SDLC. Continuous Integration (CI)
+and Continuous Delivery (CD) pipelines help in automating testing, building,, and deployment, reducing
+manual errors and speeding up the release cycle.
+
+Improved Collaboration which fosters collaboration between development and operations teams, breaking 
+down silos that often exist in traditional SDLC approaches. This collaboration ensures that code is 
+developed with operational considerations in mind, leading to more reliable and maintainable software.
