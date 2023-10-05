@@ -6,3 +6,36 @@ system can be composed of hardware only, software only, or a combination of both
 
 In the software development life cycle there's typically six stages: Analysis, design, 
 development, and testing, implementation, documentation, and evaluation.
+
+Reasons that devops is really useful in the modern age
+------------------------------------------------------
+
+* It allows for faster development and deployment by automating various stages of SDLC. Continuous 
+Integration (CI) and Continuous Delivery (CD) pipelines help in automating testing, building, 
+and deployment, reducing manual errors and speeding up the release cycle.
+
+* Improved Collaboration which fosters collaboration between development and operations teams, breaking 
+down silos that often exist in traditional SDLC approaches. This collaboration ensures that code is 
+developed with operational considerations in mind, leading to more reliable and maintainable software.
+
+* Allows for more flexibility in responding to changes requirements or market conditions.
+Continuous Deployment(CD) enables rapid delivery of new features and updates, helping binuesses 
+stay competitive.
+
+* Helps with Risk Reduction by automating repetitive tasks and enforcing consistent deployment processes,
+Devops reduces the risk associated with human errors during manual deplooyments. This results in a more
+stable and predictable software release process.
+
+* Devops encourages a customer-centric approach by enabling faster feedback from users. This feedback loop
+allows development teams to iterate and improve the product more rapidly, aligning it better with the
+customer needs.
+
+* DevSecOps, an extension of DevOps, integrates security practices into SDLC from the outset. This helps
+identifying and addressing security vulnerabilities early in the development process, reducing security risks.
+
+* Through automation and improved resouce utilization, DevOps can lead to cost saving in the long run. It
+reduces the need for manual, time-consuming tasks and minimizes infrastructure waste.
+
+So, in conclusion. Devops is a key component in SDLC becasuse it accelerates development, improve collaboration,
+ennhances quality, and makes the entire process more efficient and customer-focused. By integrating DevOps practices
+into the SDLC, Organizations can stay competitive, reduce risk, and deliver high-quality software more rapidly.
