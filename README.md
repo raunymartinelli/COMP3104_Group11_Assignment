@@ -28,6 +28,11 @@ This repository contains the group assignment for the COMP3104 – DevOps course
 #    - Work specific to the tasks or features assigned to RaunyMartinelli is expected to be here.
 #    - After code in this branch is tested and reviewed, it may be merged into 'main'.
 
+# 3. 101321576-LucasFurtado:
+#    - This branch is likely a feature, bugfix, or individual work branch derived from 'main'.
+#    - Work specific to the tasks or features assigned to RaunyMartinelli is expected to be here.
+#    - After code in this branch is tested and reviewed, it may be merged into 'main'.
+
 # Additional branches may exist for other features, developers, or releases.
 
 ## Basic Git Workflow
