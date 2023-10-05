@@ -1,1 +1,8 @@
-Software Development Life Cycle
+Software Development Life Cycle:
+Planning Stage
+Feasibility or Requirements of Analysis Stage
+Design and Prototyping Stage
+Software Development Stage
+Software Testing Stage
+Implementation and Integration
+Operations and Maintenance Stage
