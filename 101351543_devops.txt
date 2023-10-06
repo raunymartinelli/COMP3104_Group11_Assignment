@@ -1,3 +1,12 @@
+  _____              ____            
+ |  __ \            / __ \           
+ | |  | | _____   _| |  | |_ __  ___ 
+ | |  | |/ _ \ \ / / |  | | '_ \/ __|
+ | |__| |  __/\ V /| |__| | |_) \__ \
+ |_____/ \___| \_/  \____/| .__/|___/
+                          | |        
+                          |_|        
+						  
 DevOps is the methodology in the software development and IT industry. Used as a set of partices and tools,
 Devops integrates and automates the work of software developent, and It operations as a means of improving
 and shortening the system development life cycle.
