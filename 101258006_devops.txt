@@ -22,3 +22,7 @@ By the end of the DevOps course, students will reliably demonstrate their profic
     Identify market positioning and opportunities within the role of DevOps engineers.
 
 
+The course employs a variety of instructional techniques, including lectures, demonstrations, hands-on exercises, and assignments that can be completed outside of class.
+The choice of instructional mode depends on whether the course is delivered online or in a physical classroom.
+Online students will primarily have virtual lectures, but there may be some in-person lectures for those attending in person.
+Labs will be conducted virtually for online program participants, while in-person program students must attend labs on campus.
