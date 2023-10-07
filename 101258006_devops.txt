@@ -1,1 +1,4 @@
-More information about lectures and labs on COMP3104
+Within this course, students will gain insight into the methodologies, protocols, and best practices employed by DevOps engineers to boost workplace productivity.
+They will also assess and implement various developer operation strategies using industry-standard tools through hands-on exercises.
+Furthermore, students will learn to devise solutions for complex business issues while upholding the core responsibilities associated with DevOps.
+
