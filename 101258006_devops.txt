@@ -2,3 +2,23 @@ Within this course, students will gain insight into the methodologies, protocols
 They will also assess and implement various developer operation strategies using industry-standard tools through hands-on exercises.
 Furthermore, students will learn to devise solutions for complex business issues while upholding the core responsibilities associated with DevOps.
 
+
+By the end of the DevOps course, students will reliably demonstrate their proficiency in the following areas:
+
+    Display a thorough understanding of effective DevOps techniques and the ability to propose solutions using industry-standard tools and methods, including strategies for continuous integration, delivery, and deployment, as well as expertise in the software development lifecycle and the use of application containerization for deployment.
+
+    Actively participate in practical exercises by applying DevOps techniques in hands-on lab work.
+
+    Foster productive cross-collaboration among IT team members by adhering to the roles and responsibilities associated with an engineer's role.
+
+    Evaluate and implement Version Control System workflows to facilitate low-risk software releases.
+
+    Make informed decisions regarding the architectural design of software products, particularly when considering the choice between monolithic and microservice architectures.
+
+    Monitor code quality and effectively deploy applications to hosting services.
+
+    Utilize service platforms like Infrastructure as Code and leverage the benefits offered by cloud computing products.
+
+    Identify market positioning and opportunities within the role of DevOps engineers.
+
+
