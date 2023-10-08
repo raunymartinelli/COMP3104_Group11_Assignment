@@ -102,3 +102,54 @@ Note
 
 
 Update REDME.md File
+
+# COMP3104_Group11_Assignment
+
+## Changelog
+
+### Update [Date: 07-10-2023]
+
+#### Added
+- **Pull Request Template:** Introduced a PR template to streamline the contribution process and ensure consistent and informative pull request descriptions.
+  
+## Contributing via Pull Requests
+
+We highly encourage contributions from all team members and external contributors! In order to streamline and standardize the submission and review of contributions, we utilize a Pull Request (PR) template in this repository.
+
+### How to Submit a PR
+
+1. **Fork and Clone the Repository:**
+   - Fork the repository and clone your fork to your local environment.
+
+2. **Create a New Branch:**
+   - Always create a new branch for your changes. Naming it relevantly to your modification.
+
+3. **Commit Your Changes:**
+   - Ensure your changes are logical, functional, and documented (if required).
+   - Write meaningful commit messages that detail the changes and reasons.
+
+4. **Use the Pull Request Template:**
+   - When creating a pull request, please fill out the Pull Request template thoroughly to provide a comprehensive overview of your changes.
+
+5. **Submit Your PR:**
+   - Ensure that your PR is created against the `main` branch of the original repository.
+   - Assign a reviewer or request reviews from team members.
+
+### Using the Pull Request Template
+
+Upon initiating a PR, the template will automatically populate in the PR description field. Kindly fill out all sections to ensure clear and concise communication about the changes being proposed or issues being fixed.
+
+#### PR Template Sections
+
+- **Description:** Provide a detailed summary of the changes and the rationale behind them.
+- **Type of Change:** Indicate whether it’s a bug fix, a new feature, or a breaking change, etc.
+- **How to Test:** Instructions on how other team members can test your changes.
+- **Checklist:** Confirm that all relevant tasks have been performed and conditions are satisfied.
+
+By adhering to this process, we can maintain a structured and efficient workflow for handling changes and updates to the project. Thank you for your cooperation and contributions!
+
+## Additional Information
+
+
+
+
